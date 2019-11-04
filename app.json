@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Weather App",
-    "slug": "weather",
+    "name": "weather&citys",
+    "slug": "weatherandcitys",
     "privacy": "public",
     "sdkVersion": "35.0.0",
     "platforms": [
